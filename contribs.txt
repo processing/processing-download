@@ -1845,20 +1845,6 @@ maxRevision=0
 download=http://www.erase.net/projects/processing-sc/files/processing-sc.zip
 
 library
-name=ttslib
-authors=[Nikolaus Gradwohl](http://www.local-guru.net)
-url=http://www.local-guru.net/blog/pages/ttslib
-categories=Sound
-sentence=ttslib makes your sketches speak with the help of freetts.
-version=4
-prettyVersion=0.4
-id=092
-type=library
-minRevision=0
-maxRevision=0
-download=http://www.local-guru.net/projects/ttslib/ttslib.zip
-
-library
 name=Beads
 authors=[Ollie Bown](http://www.olliebown.com), [Benito Crawford](http://benitomedia.com), [Ben Porter](http://bp.io) and [Aengus Martin](http://www.am-process.org)
 url=http://www.beadsproject.net/
@@ -2528,10 +2514,10 @@ name=FIP
 authors=[Darragh Nolan](https://github.com/prontopablo/FIP)
 url=https://prontopablo.github.io/FIP/
 categories=Video & Vision
-sentence=Real-time post-processing / image-processing.
-paragraph=
-version=8
-prettyVersion=1.0.7
+sentence=Fast Image Processing. Filters, post-processing and more.
+paragraph=FIP allows you to add effects such as cartoon filters, pixelation, and dithering using just three lines of code. The accompanying reference website provides all you need to get started!
+version=9
+prettyVersion=1.0.8
 minRevision=0
 maxRevision=0
 id=290
