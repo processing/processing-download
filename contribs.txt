@@ -1140,21 +1140,6 @@ type=library
 download=https://github.com/cansik/sweep-processing/releases/download/latest/SweepProcessing.zip
 
 library
-name=GazeTrack: Eye-tracking for Processing (Tobii EyeX and 4C)
-authors=[Augusto Esteves](http://web.tecnico.ulisboa.pt/augusto.esteves/)
-url=http://web.tecnico.ulisboa.pt/augusto.esteves/GazeTrack/
-categories=Hardware
-sentence=GazeTrack is library that supports basic gaze tracking using various Tobii eye-trackers.
-paragraph=The library was tested on Windows 10, using the Tobii EyeX and 4C eye-trackers. It should also work with any Tobii-enabled laptops.
-version=2
-prettyVersion=2.0.5
-minRevision=0
-maxRevision=0
-id=225
-type=library
-download=http://web.tecnico.ulisboa.pt/augusto.esteves/GazeTrack/GazeTrack.zip
-
-library
 name=Intel RealSense for Processing
 categories=Hardware
 authors=[Florian Bruggisser](https://bildspur.ch)
