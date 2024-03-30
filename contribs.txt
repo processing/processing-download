@@ -1845,20 +1845,6 @@ maxRevision=0
 download=http://www.erase.net/projects/processing-sc/files/processing-sc.zip
 
 library
-name=ttslib
-authors=[Nikolaus Gradwohl](http://www.local-guru.net)
-url=http://www.local-guru.net/blog/pages/ttslib
-categories=Sound
-sentence=ttslib makes your sketches speak with the help of freetts.
-version=4
-prettyVersion=0.4
-id=092
-type=library
-minRevision=0
-maxRevision=0
-download=http://www.local-guru.net/projects/ttslib/ttslib.zip
-
-library
 name=Beads
 authors=[Ollie Bown](http://www.olliebown.com), [Benito Crawford](http://benitomedia.com), [Ben Porter](http://bp.io) and [Aengus Martin](http://www.am-process.org)
 url=http://www.beadsproject.net/
