@@ -1,0 +1,1369 @@
+Minim	http://code.compartmental.net/minim/	2543	0.1329
+ControlP5	http://www.sojamo.de/libraries/controlp5	2487	0.1299
+PeasyCam	http://mrfeinberg.com/peasycam/	1411	0.0737
+Sound	https://processing.org/reference/libraries/sound/	1408	0.0736
+G4P	http://www.lagers.org.uk/g4p	1289	0.0673
+oscP5	http://www.sojamo.de/libraries/oscp5	1159	0.0606
+Video Library for Processing 4	http://processing.org/reference/libraries/video/index.html	1016	0.0531
+Arduino (Firmata)	http://arduino.cc/playground/Interfacing/Processing	959	0.0501
+OpenCV for Processing	https://github.com/cansik/opencv-processing	919	0.0480
+Ketai	http://ketai.org/	873	0.0456
+Video Export	https://funprogramming.org/VideoExport-for-Processing	821	0.0429
+PixelFlow	https://github.com/diwi/PixelFlow	758	0.0396
+Geomerative	http://www.ricardmarxer.com/geomerative	709	0.0370
+Shapes 3D	http://www.lagers.org.uk/s3d4p/index.html	690	0.0360
+The MidiBus	http://www.smallbutdigital.com/themidibus.php	672	0.0351
+Beads	http://www.beadsproject.net/	631	0.0330
+UDP	http://ubaa.net/shared/processing/udp/	589	0.0308
+Box2D for Processing	https://github.com/shiffman/Box2D-for-Processing	586	0.0306
+Camera 3D	https://ixora.io/projects/camera-3D/	577	0.0301
+Image processing algorithms	http://github.com/milchreis/processing-imageprocessing	561	0.0293
+Websockets	https://github.com/alexandrainst/processing_websockets	554	0.0289
+HTTP Requests for Processing	https://github.com/runemadsen/HTTP-Requests-for-Processing	541	0.0283
+ToxicLibs	http://toxiclibs.org/	521	0.0272
+AI for 2D Games	http://www.lagers.org.uk/ai4g/index.html	515	0.0269
+meter	https://github.com/BillKujawa/meter.git	504	0.0263
+Fisica	http://www.ricardmarxer.com/fisica	502	0.0262
+GenerativeDesign	http://www.generative-gestaltung.de/	500	0.0261
+Ani	http://benedikt-gross.de/libraries/Ani/	498	0.0260
+BlobDetection	http://www.v3ga.net/processing/BlobDetection/	493	0.0258
+AndroidCapture for Processing	https://github.com/onlylemi/processing-android-capture	486	0.0254
+GifAnimation	https://github.com/extrapixel/gif-animation	479	0.0250
+Game Control Plus	http://lagers.org.uk/gamecontrol	466	0.0243
+Interfascia	http://github.com/brendanberg/interfascia	463	0.0242
+OpenCV for Processing	https://github.com/atduskgreg/opencv-processing	460	0.0240
+grafica	http://jagracar.com/grafica.php	458	0.0239
+Computational Geometry	http://thecloudlab.org/processing/library.html	449	0.0235
+JavaFX	https://github.com/processing/processing4-javafx	396	0.0207
+Drop	http://transfluxus.github.io/drop/	392	0.0205
+Sprites	http://www.lagers.org.uk/s4p	384	0.0201
+Syphon	https://github.com/Syphon/Processing	382	0.0200
+Spout for Processing	https://github.com/leadedge/SpoutProcessing/wiki	369	0.0193
+Kinect v2 for Processing	http://codigogenerativo.com/kinectpv2/	368	0.0192
+Console	https://github.com/keshrath/Console	360	0.0188
+VSync for Processing	http://erniejunior.github.io/VSync-for-Processing/	354	0.0185
+UiBooster	http://github.com/milchreis/uibooster-for-processing	353	0.0184
+Leap Motion for Processing	https://github.com/nok/leap-motion-processing	352	0.0184
+VLCJVideo	https://github.com/linux-man/VLCJVideo	346	0.0181
+PostFX for Processing	https://github.com/cansik/processing-postfx	345	0.0180
+GL Video	https://github.com/gohai/processing-glvideo	345	0.0180
+Guido	https://github.com/fjenett/Guido	344	0.0180
+handy	https://www.gicentre.net/software/	340	0.0178
+Open Kinect for Processing	http://shiffman.net/p5/kinect/	339	0.0177
+QueasyCam	https://github.com/jrc03c/queasycam	339	0.0177
+LiquidFunProcessing	https://github.com/diwi/LiquidFunProcessing	336	0.0176
+BezierSQLib	https://github.com/fjenett/sql-library-processing	336	0.0176
+OBJExport	http://n-e-r-v-o-u-s.com/tools/obj	335	0.0175
+Deep Vision	https://github.com/cansik/deep-vision-processing	331	0.0173
+Cassette	https://github.com/shlomihod/cassette	329	0.0172
+Loom	http://corajr.github.io/loom	318	0.0166
+AP-Sync	http://ap-sync.github.io	318	0.0166
+Video	http://processing.org/reference/libraries/video/index.html	312	0.0163
+gicentreUtils	http://www.gicentre.org/utils/	310	0.0162
+SerialRecord	https://osteele.github.io/Processing_SerialRecord/	308	0.0161
+Kinect4WinSDK	http://www.magicandlove.com/blog/research/kinect-for-processing-library/	307	0.0160
+Collada Loader for SketchUp and Blender	http://www.die-seite.ch/	301	0.0157
+ImageLoader	https://github.com/keshrath/ImageLoader	299	0.0156
+ArtNet for Java and Processing	https://github.com/cansik/artnet4j	298	0.0156
+BoofCV for Processing	http://boofcv.org/index.php?title=Tutorial_Processing	296	0.0155
+ComposingForEveryone	http://www.kramann.info/cfe	296	0.0155
+extruder	http://maxlfarrell.gitlab.io/extruder	295	0.0154
+Keystone	https://github.com/davidbouchard/keystone	294	0.0154
+Combinatorics	https://github.com/fjenett/combinatorics	292	0.0153
+MQTT	https://github.com/256dpi/processing-mqtt	290	0.0152
+Picking	http://n.clavaud.free.fr/processing/library/picking/	285	0.0149
+Carnivore	http://r-s-g.org/carnivore	282	0.0147
+Dashed Lines	https://github.com/garciadelcastillo/-dashed-lines-for-processing-	279	0.0146
+Green	https://ztdp.ca/projects/school/Green	278	0.0145
+ColorScheme	http://josephtaylor.github.io/ColorScheme	278	0.0145
+XYscope	https://teddavis.org/xyscope	275	0.0144
+SketchMapper	http://josephtaylor.github.io/sketch-mapper	274	0.0143
+Free Transform	https://github.com/barelief/freeTransform-processing	271	0.0142
+RiTa	https://rednoise.org/rita/	268	0.0140
+CountdownTimer	https://github.com/dhchoi/processing-countdowntimer	267	0.0139
+SuperCollider client for Processing	http://www.erase.net/projects/processing-sc/	265	0.0138
+Path Finder	http://www.lagers.org.uk/pfind/index.html	260	0.0136
+Image Sequence Player	https://github.com/orgicus/image-sequence-player	253	0.0132
+planetarium	https://github.com/codeanticode/planetarium	252	0.0132
+Fontastic	http://code.andreaskoller.com/libraries/fontastic	251	0.0131
+wellen	https://github.com/dennisppaul/wellen	250	0.0131
+Creative Machine	https://jjeongin.github.io/creative-machine	249	0.0130
+QRCode	http://shiffman.net/p5/qrcode-processing/	248	0.0130
+Culebra Behavior Library for Processing	http://www.complicitmatter.com/culebra-java/	248	0.0130
+OCD: Obsessive Camera Direction	http://www.gdsstudios.com/processing/libraries/ocd/	248	0.0130
+MapThing	http://www.reades.com/MapThing	246	0.0129
+ttslib	http://www.local-guru.net/blog/pages/ttslib	245	0.0128
+Tablet	http://interfaze.info/libraries/tablet/	244	0.0127
+Timing Utilities	https://github.com/Lord-of-the-Galaxy/Timing-Utilities	244	0.0127
+TimedEvents	http://multiply.org/processing/	244	0.0127
+Mouse 2D Transformations	https://github.com/AlexPoupakis/mouse2DTransformations	240	0.0125
+Grab	https://github.com/Transmedia-Gx/grab	239	0.0125
+nub	https://github.com/VisualComputing/nub	237	0.0124
+Hardware I/O	http://processing.org/reference/libraries/io/index.html	233	0.0122
+SelectFile	https://andrusiv.com/android-select-file/	232	0.0121
+Lunar	https://github.com/boydhont/lunar	231	0.0121
+Signal Filter	https://github.com/SableRaf/signalfilter	230	0.0120
+$1 Unistroke Recognizer	https://github.com/nok/onedollar-unistroke-recognizer	228	0.0119
+Jasmine	http://www.lagers.org.uk/jasmine	228	0.0119
+Dawesome Toolkit	http://cloud.brendandawes.com/dawesometoolkit/	228	0.0119
+teilchen	https://github.com/dennisppaul/teilchen	227	0.0119
+Temboo	http://www.temboo.com/processing	222	0.0116
+Complex Numbers	https://github.com/vmathmachine/Complex-Numbers/tree/latest	220	0.0115
+HiVis	https://github.com/OliverColeman/hivis	214	0.0112
+Intel RealSense for Processing	https://github.com/cansik/realsense-processing	213	0.0111
+proscene	http://otrolado.info	213	0.0111
+QScript	http://www.lagers.org.uk/qscript	212	0.0111
+LazyGui	https://github.com/KrabCode/LazyGui	212	0.0111
+dmxP512	http://motscousus.com/stuff/2011-01_dmxP512/	211	0.0110
+HPGLGraphics	http://ciaron.net/HPGLGraphics	211	0.0110
+RunwayML Processing Library	https://github.com/runwayml/processing-library	207	0.0108
+Nice Color Palettes	https://github.com/federico-pepe/nice-color-palettes	206	0.0108
+Eliza	http://interfaze.info/libraries/eliza/	206	0.0108
+Pd4P3	https://github.com/robertesler/Pd4P3	200	0.0104
+ShortMessage	http://hamzeen.github.io/ShortMessage	199	0.0104
+BlinkStick	http://arvydas.github.io/blinkstick-processing/	199	0.0104
+spacebrewP5	http://spacebrew.cc	198	0.0103
+(Weka4P) Weka Machine Learning for Processing	https://howieliang.github.io/Weka4P/	196	0.0102
+Pallav.Matrix	http://github.com/pallav12/matrixMath-for-processing	188	0.0098
+SFTP	http://www.shiffman.net/2007/06/04/sftp-with-java-processing/	187	0.0098
+Steganos	http://www.lagers.org.uk/steganos/index.html	186	0.0097
+Patchy	http://mrfeinberg.com/patchy/	184	0.0096
+tramontanaCV	https://tramontana.xyz/tramontanacv	182	0.0095
+SimpleOpenNI	https://github.com/totovr/SimpleOpenNI	180	0.0094
+Timer	https://github.com/guilhermesilveira/timer	177	0.0092
+Simple Touch	https://github.com/gohai/processing-simpletouch	176	0.0092
+ColorBlindness	https://ixora.io/projects/colorblindness/	174	0.0091
+Most Pixels Ever	https://github.com/shiffman/Most-Pixels-Ever-Processing	174	0.0091
+PS3Eye	https://github.com/diwi/PS3Eye	174	0.0091
+HE_Mesh	http://www.wblut.com/he_mesh/	173	0.0090
+Squarify	https://github.com/agatheblues/squarify	170	0.0089
+XYscope	http://teddavis.org/xyscope	169	0.0088
+Swing Helper	https://github.com/NumericPrime/SwingHelperProcessing	168	0.0088
+Everything Will Be IK	https://github.com/EGjoni/Everything-Will-Be-IK-Processing	168	0.0088
+nyar4psg	https://github.com/nyatla/NyARToolkit-for-Processing/	166	0.0087
+Andrew's Utilities (AULib)	http://imaginary-institute.com/resources/AULibrary/AULib.php	164	0.0086
+Simple Tweet	https://github.com/gohai/processing-simpletweet	162	0.0085
+MuKCast	https://github.com/keshrath/MuKCast	159	0.0083
+OCT	https://github.com/thwegene/OCT	158	0.0083
+OOCSI for Processing	https://iddi.github.io/oocsi-processing/	157	0.0082
+Sweep for Processing	https://github.com/cansik/sweep-processing	156	0.0082
+ID3	http://jorgecardoso.eu/processing/ID3/	155	0.0081
+Ptmx	https://github.com/linux-man/ptmx	154	0.0080
+Simple Receipt Printer	https://github.com/gohai/processing-simplereceiptprinter	153	0.0080
+Eye Tribe for Processing	http://jorgecardoso.eu/processing/eyetribeprocessing	152	0.0079
+BPM timings	https://github.com/vincentsijben/bpm-timings-for-processing	151	0.0079
+WootingKeyboard	http://kiml.org/WootingKeyboard	137	0.0072
+Myo for Processing	https://github.com/nok/myo-processing	135	0.0071
+Live Brush	https://github.com/boydhont/LiveBrush	135	0.0071
+IPCapture	http://www.stefanobaldan.com/projects/ipcapture	134	0.0070
+Novation Launch Control client	https://github.com/haschdl/pLaunchController	134	0.0070
+NXTComm Processing	http://jorgecardoso.eu/processing/NXTComm/	133	0.0069
+Joon's Renderer	https://github.com/joonhyublee/joons-renderer	129	0.0067
+proJMS	http://sourceforge.net/projects/projms/	129	0.0067
+ProcMod player	http://github.com/sphaero/procmod	125	0.0065
+Dmx4Artists	www.jaysonh.com	123	0.0064
+Redis	https://github.com/nok/redis-processing	122	0.0064
+Nurbs	https://arnoudvanderleer.github.io/processing-nurbs/	120	0.0063
+Sudden Motion Sensor	http://www.shiffman.net/p5/sms/	116	0.0061
+PixelPusher	http://www.heroicrobotics.com/	110	0.0057
+GaussSense SDK for Processing	http://developers.gausstoys.com/processing/	110	0.0057
+Latk for Processing	https://github.com/LightningArtist/latkProcessing	110	0.0057
+GazeTrack: Eye-tracking for Processing (Tobii EyeX and 4C)	http://web.tecnico.ulisboa.pt/augusto.esteves/GazeTrack/	107	0.0056
+Tramontana Processing Library	https://tramontana.xyz	106	0.0055
+mesh	NULL	104	0.0054
+Skweezee for Processing	http://www.skweezee.net/processing	103	0.0054
+Tracer	http://www.objectstothinkwith.com/tracer/	103	0.0054
+Oklab for Processing	https://github.com/yashbutno/Oklab-for-Processing	101	0.0053
+Simple Phidgets	https://github.com/sgeigers/SimplePhidgets	98	0.0051
+toxiclibscore	NULL	89	0.0046
+IgnoCodeLib	http://paulhertz.net/ignocodelib/index.html	89	0.0046
+Tramontana	https://pierdr.github.io/Tramontana-for-Processing/	87	0.0045
+toxiclibs_p5	NULL	84	0.0044
+Scratch	https://github.com/mikebarkmin/processing-library-scratch	82	0.0043
+OBJLoader	http://code.google.com/p/saitoobjloader/	80	0.0042
+Sound	https://processing.org/reference/libraries/sound/index.html	79	0.0041
+Video Library for Processing 3	http://processing.org/reference/libraries/video/index.html	78	0.0041
+GifAnimation	http://github.com/01010101/GifAnimation	77	0.0040
+simutils	NULL	73	0.0038
+verletphysics	NULL	73	0.0038
+SimpleOpenNI	http://code.google.com/p/simple-openni/	72	0.0038
+volumeutils	NULL	70	0.0037
+datautils	NULL	70	0.0037
+audioutils	NULL	69	0.0036
+colorutils	NULL	68	0.0036
+IgnoCodeLib 0.4	http://paulhertz.net/ignocodelib/index.html	64	0.0033
+Novation Launch Controller client	https://github.com/haschdl/pLaunchController	63	0.0033
+punktiert	http://www.lab-eds.org/punktiert	61	0.0032
+point2line	http://sixthsensor.dk/code/p5/point2line	59	0.0031
+TUIO	NULL	59	0.0031
+Unfolding Maps	http://www.unfoldingmaps.org/	54	0.0028
+Phidgets For Processing	https://github.com/sgeigers/Phidgets-For-Processing	53	0.0028
+GazeTrack: Eye-tracking for Processing (Tobii EyeX and 4C)	http://hci.soc.napier.ac.uk/GazeTrack/	52	0.0027
+ColorHarmony	http://cagewebdev.com/colorharmony-processing-library//	50	0.0026
+PortMods	https://commonpike.github.io/nl.kw.processing.portmods/docs/PortMods.pdf	49	0.0026
+Blobscanner	https://sites.google.com/site/blobscanner/home/	47	0.0025
+treemap	NULL	47	0.0025
+HYPE	https://github.com/hype/HYPE_Processing	46	0.0024
+(Weka4P) Weka Machine Learning for Processing	https://ronghaoliang.page/Weka4P/	44	0.0023
+RiTa	http://rednoise.org/rita/	44	0.0023
+Motion	http://libraries.seltar.org/motion/	44	0.0023
+YahooWeather	http://www.onformative.com/lab/yahoo-weather-library-for-processing/	43	0.0022
+Zxing For Processing (QRCode lib)	http://cagewebdev.com/zxing4processing-processing-library/	42	0.0022
+Frames	https://github.com/heuermh/frames-processing	41	0.0021
+Zxing For Processing (barcode library)	http://cagewebdev.com/zxing4processing-processing-library/	41	0.0021
+LeapMotion	https://github.com/heuermh/leap-motion-processing	39	0.0020
+video	NULL	36	0.0019
+GSVideo	NULL	36	0.0019
+GLGraphics	NULL	36	0.0019
+Executor	https://github.com/heuermh/executor-processing	35	0.0018
+Gamepad	https://github.com/heuermh/gamepad-processing	34	0.0018
+triangulate	NULL	33	0.0017
+gwoptics	http://www.gwoptics.org/processing/gwoptics_p5lib/	33	0.0017
+soundcipher	NULL	33	0.0017
+iGeo	http://igeo.jp/	32	0.0017
+OOCSI for Processing	http://iddi.github.io/oocsi-processing/	31	0.0016
+libreTSPSWP	http://pierdr.github.io/libreTSPSWP	31	0.0016
+SelectFile	https://github.com/pif/android-select-file	29	0.0015
+Tilt for Processing	https://github.com/n1ckfg/tiltProcessing	28	0.0015
+Scratch	https://github.com/openpatch/scratch-for-java	28	0.0015
+Android Serial Library for Processing	https://github.com/inventit/processing-android-serial	28	0.0015
+GifAnimation	http://extrapixel.github.io/gif-animation/	26	0.0014
+bRigid	http://www.lab-eds.org/rigid	25	0.0013
+Simple HTTP Server	http://diskordier.net/simpleHTTPServer	25	0.0013
+bRigid	http://www.lab-eds.org/bRigid	24	0.0013
+DMX4Artists	https://github.com/jaysonh/Dmx4Artists/	24	0.0013
+apwidgets	NULL	23	0.0012
+Cardboard	http://android.processing.org	22	0.0011
+geomerative	NULL	22	0.0011
+tactu5	NULL	21	0.0011
+Camera 3D	http://ixora.io/projects/camera-3D/	20	0.0010
+IPCapture	NULL	19	0.0010
+LeapMotionP5	http://www.onformative.com/lab/leapmotionp5	19	0.0010
+tactu5	https://github.com/abstract-codex/Tactu5	19	0.0010
+GR Infinidecimal Canvas	http://rect.dev/infinidecimal	18	0.0009
+fullscreen	NULL	17	0.0009
+diewald_CV_kit	NULL	16	0.0008
+rwmidi	NULL	16	0.0008
+MindSet Processing	http://jorgecardoso.eu/processing/MindSetProcessing/	15	0.0008
+bluetoothDesktop	NULL	15	0.0008
+CVImage	NULL	14	0.0007
+BPM timings for Processing	https://github.com/vincentsijben/bpm-timings-for-processing	14	0.0007
+XlsReader	https://github.com/fjenett/xlsreader-library-processing	14	0.0007
+LSLLink	NULL	13	0.0007
+Steganos	http://www.lagers.org.uk/steganography	13	0.0007
+JMyron	NULL	13	0.0007
+handy	https://www.gicentre.net/software/#/handy/	13	0.0007
+MSAFluid	NULL	13	0.0007
+Ess	NULL	13	0.0007
+OpenCV	http://ubaa.net/shared/processing/opencv/	12	0.0006
+joons	NULL	12	0.0006
+jSerialComm	NULL	12	0.0006
+videoExport	NULL	11	0.0006
+modelbuilderMk2	NULL	11	0.0006
+easing	NULL	11	0.0006
+junit	NULL	11	0.0006
+Jama	NULL	11	0.0006
+PEmbroider	https://github.com/CreativeInquiry/PEmbroider	11	0.0006
+Simple Multi-Touch (SMT)	http://vialab.science.uoit.ca/SMT/	11	0.0006
+Augmenta for Processing	https://github.com/Theoriz/augmenta-for-processing	10	0.0005
+jamod	NULL	10	0.0005
+minim	NULL	10	0.0005
+oscP5	NULL	10	0.0005
+controlP5	NULL	10	0.0005
+P8gGraphicsSVG	http://Phi.Lho.free.fr/programming/Processing/P8gGraphicsSVG/	10	0.0005
+SimplePBR	NULL	9	0.0005
+SelectFile	https://github.com/pif/android-select-file/tree/dlg	9	0.0005
+Hermes	http://rdlester.github.com/hermes	9	0.0005
+sound	NULL	9	0.0005
+ComputationalGeometry	http://thecloudlab.org/processing/library.html	9	0.0005
+WordCram	NULL	9	0.0005
+Mother	http://www.onar3d.com/mother	9	0.0005
+physics	NULL	9	0.0005
+geoMap	NULL	8	0.0004
+openbci_gui_helpers	NULL	8	0.0004
+prohtml	NULL	8	0.0004
+hamcrest	NULL	8	0.0004
+promidi	NULL	8	0.0004
+aparapi	NULL	8	0.0004
+ssdp_client	NULL	8	0.0004
+Processing Geometry Suite	https://github.com/micycle1/PGS	8	0.0004
+sonia_v2_9	NULL	8	0.0004
+brainflow	NULL	8	0.0004
+generativedesign	NULL	8	0.0004
+SQuelized	https://samuelal.github.io/squelized.github.io/index.html	8	0.0004
+FingerTracker	NULL	7	0.0004
+XlsReader	NULL	7	0.0004
+sDrop	NULL	7	0.0004
+ewbIK	NULL	7	0.0004
+jsoup	NULL	7	0.0004
+papaya	http://adilapapaya.com/papayastatistics/	7	0.0004
+NextText	http://nexttext.net/	7	0.0004
+isogrid	NULL	7	0.0004
+ApacheCommonsMath	NULL	7	0.0004
+OpenCV	NULL	7	0.0004
+arduinoscope	NULL	7	0.0004
+modelbuilder	NULL	7	0.0004
+diewald_CV_kit	http://thomasdiewald.com/processing/libraries/diewald_CV_kit/	6	0.0003
+queasycam	NULL	6	0.0003
+Tramontana for Processing	https://pierdr.github.io/Tramontana-for-Processing/	6	0.0003
+traerphysics	NULL	6	0.0003
+Plethora	http://www.plethora-project.com/Plethora-0.3.0/index.html	6	0.0003
+procontroll	NULL	6	0.0003
+opencv_processing	NULL	6	0.0003
+ColorBlindness	http://ixora.io/projects/colorblindness/	6	0.0003
+jna	NULL	6	0.0003
+java_websocket	NULL	6	0.0003
+guicomponents	NULL	6	0.0003
+proxml	NULL	6	0.0003
+SoundCloud	https://github.com/nok/soundcloud-processing	6	0.0003
+LeapJava	NULL	6	0.0003
+PGS	NULL	6	0.0003
+bRigid	http://www.lab-eds.org/brigid	5	0.0003
+HE_Mesh 2014	http://hemesh.wblut.com/	5	0.0003
+dLibs_freenect	http://thomasdiewald.com/processing/libraries/dLibs_freenect/	5	0.0003
+twitter4j	NULL	5	0.0003
+p5sunflowapiapi	NULL	5	0.0003
+P8gGraphicsSVG	http://Phi.Lho.free.fr/Programming/Processing/P8gGraphicsSVG/	5	0.0003
+ijeomamotion	http://ekeneijeoma.com/processing/ijeomamotion	5	0.0003
+Turtle	http://leahbuechley.com/Turtle	5	0.0003
+beads	NULL	5	0.0003
+Unfolding	NULL	5	0.0003
+udp	NULL	5	0.0003
+peasyGradients	NULL	5	0.0003
+ezGestures	http://www.silentlycrashing.net/ezgestures/	5	0.0003
+javafx	NULL	5	0.0003
+Path Finder	http://yourlibraryname.com	5	0.0003
+Rope	https://stanlepunk.github.io/Rope/	5	0.0003
+HersheyFont	http://ixd-hof.de/processing_hersheyfont	5	0.0003
+keystone	http://keystonep5.sourceforge.net/	5	0.0003
+WebsocketP5	http://muthesius.github.io/WebsocketP5	5	0.0003
+skatolo	NULL	5	0.0003
+QRCode	http://www.shiffman.net/p5/qrcode-processing/	5	0.0003
+J4K Java For Kinect	http://research.dwi.ufl.edu/ufdw/j4k	5	0.0003
+Path_Finder	http://www.lagers.org.uk/pfind/index.html	5	0.0003
+Shapes3d	http://www.lagers.org.uk/s3d4p/index.html	5	0.0003
+twitter4j404	NULL	5	0.0003
+Shapes3D	NULL	4	0.0002
+IPCapture	http://singintime.wordpress.com/ipcapture	4	0.0002
+stt	NULL	4	0.0002
+gifAnimation	NULL	4	0.0002
+arduino	NULL	4	0.0002
+peasycam	NULL	4	0.0002
+jbox2d	NULL	4	0.0002
+marchingcubes	http://s373.net/code/marchingcubes	4	0.0002
+Kinect Projector Toolkit	http://www.genekogan.com	4	0.0002
+json	NULL	4	0.0002
+Rekognition for Processing	https://github.com/shiffman/Rekognition-for-Processing	4	0.0002
+apfloat	NULL	4	0.0002
+themidibus	NULL	4	0.0002
+Your Library	http://yourlibraryname.com	4	0.0002
+TUIO Client	http://www.tuio.org/	4	0.0002
+Sound	http://processing.org/reference/libraries/sound/index.html	4	0.0002
+poi	NULL	4	0.0002
+interfascia	NULL	4	0.0002
+websocketP5	NULL	4	0.0002
+crypto	NULL	4	0.0002
+jxl	NULL	4	0.0002
+tramontanaCV	http://pierdr.github.io/tramontanaCV	4	0.0002
+layers	NULL	4	0.0002
+deepvision	NULL	4	0.0002
+OBJLoader	NULL	4	0.0002
+gpx	NULL	4	0.0002
+PDFBox	NULL	4	0.0002
+L3D Cube library	http://L3Dcube.com	4	0.0002
+ArduinoAdkUsb	NULL	4	0.0002
+ILDA for Processing	https://github.com/colouredmirrorball/Ilda	4	0.0002
+SimpleOpenNI	NULL	4	0.0002
+G4P	NULL	3	0.0002
+diewald_fluid	http://thomasdiewald.com/processing/libraries/diewald_fluid/	3	0.0002
+maxlink	NULL	3	0.0002
+jmetude	NULL	3	0.0002
+Multi Touch Kit	${ https://hci.cs.uni-saarland.de/multi-touch-kit/}	3	0.0002
+napplet	NULL	3	0.0002
+REST Client Library	https://francisli.github.io/processing-restclient/	3	0.0002
+imageprocessing	NULL	3	0.0002
+base64	NULL	3	0.0002
+Collada Loader for Google Sketchup	http://www.die-seite.ch/	3	0.0002
+colorLib	https://github.com/vormplus/colorLib/wiki	3	0.0002
+bcel670	NULL	3	0.0002
+Post To Web	http://libraries.seltar.org/postToWeb/	3	0.0002
+RemoteVLC	NULL	3	0.0002
+Open Kinect	http://www.shiffman.net/p5/kinect/	3	0.0002
+PSVM	NULL	3	0.0002
+common_io	NULL	3	0.0002
+Ani	https://github.com/joshuajnoble/blepdroid	3	0.0002
+sqljdbc	NULL	3	0.0002
+Rekognition for Processing	https://github.com/shiffman/RekognitionProcessing/	3	0.0002
+jnativehook	NULL	3	0.0002
+Cell Noise	http://www.carljohanrosen.com/processing/	3	0.0002
+myUsbSerial	https://github.com/inventit/processing-android-serial	3	0.0002
+Praktikum	https://moodle.w-hs.de/course/view.php?id=2495	3	0.0002
+jcef	NULL	3	0.0002
+imageio_metadata	NULL	3	0.0002
+SVGExtended	NULL	3	0.0002
+aspose_psd	NULL	3	0.0002
+imageio_psd	NULL	3	0.0002
+flob	http://s373.net/code/flob	3	0.0002
+LSystems	https://kenai.com/projects/l-system-utilities/	3	0.0002
+common_lang	NULL	3	0.0002
+KinectPV2	NULL	3	0.0002
+ComputationalGeometry	NULL	3	0.0002
+ZXingP5	https://github.com/enkatsu/ZXingP5	3	0.0002
+http	NULL	3	0.0002
+GML4U	https://github.com/01010101/GML4U/wiki	3	0.0002
+SimpleOculusRift	http://code.google.com/p/simple-openni/	3	0.0002
+ai_path	NULL	3	0.0002
+ProScene	http://code.google.com/p/proscene/	3	0.0002
+selenium	NULL	3	0.0002
+toxiclibs	NULL	3	0.0002
+box2d_processing	NULL	3	0.0002
+carnivore	NULL	3	0.0002
+Dmx4Artists	NULL	3	0.0002
+HE_Mesh	http://www.wblut.com/hemesh/	3	0.0002
+Twitter4J	NULL	3	0.0002
+Moonlander	http://github.com/anttihirvonen/moonlander	3	0.0002
+keystone	NULL	3	0.0002
+Loc	NULL	3	0.0002
+unlekkerLib	NULL	3	0.0002
+HTTP Client for Processing	NULL	3	0.0002
+PScratch	https://github.com/R2mix/PScratch	3	0.0002
+imageio_core	NULL	3	0.0002
+KinectOrbit	NULL	3	0.0002
+Palette	NULL	3	0.0002
+common_image	NULL	3	0.0002
+imageio_tiff	NULL	3	0.0002
+simpletouch	NULL	3	0.0002
+FPSTracker	http://www.bonjour-lab.com	3	0.0002
+WSProcessor	https://github.com/thisisvictor/WSProcessor	3	0.0002
+Video Library for Processing Android	http://omerjerk.in	3	0.0002
+PBox2D	http://www.shiffman.net/teaching/nature/box2d-processing/	3	0.0002
+twitter4j401	NULL	3	0.0002
+imageio_jpeg	NULL	3	0.0002
+shapetween	NULL	3	0.0002
+SurfaceMapper	http://www.ixagon.se/surfacemapper/	3	0.0002
+jai_imageio_core	NULL	3	0.0002
+VideoExport	NULL	3	0.0002
+commonslang	NULL	3	0.0002
+Syphon	NULL	3	0.0002
+mouseandkeylogger	NULL	3	0.0002
+Apple Light Sensor	http://projects.formatlos.de/ambientlightsensor/	3	0.0002
+JTransforms	NULL	3	0.0002
+glgraphics	NULL	3	0.0002
+Blobscanner	[web site](https://sites.google.com/site/blobscanner/home/)	3	0.0002
+ZXingP5	NULL	3	0.0002
+eeml	NULL	3	0.0002
+gson	NULL	3	0.0002
+boxwrap2d	NULL	2	0.0001
+openkinect	NULL	2	0.0001
+nexttext	NULL	2	0.0001
+kramann0150_fuzzy	NULL	2	0.0001
+xxxevooptxxx	NULL	2	0.0001
+restclient	NULL	2	0.0001
+simulators	NULL	2	0.0001
+NULL	https://github.com/micycle1/PeasyGradients	2	0.0001
+yamaha	NULL	2	0.0001
+joonsrenderer	NULL	2	0.0001
+chatbots	NULL	2	0.0001
+Ketai	NULL	2	0.0001
+Trails	https://www.underlyingform.art/	2	0.0001
+kramann2	NULL	2	0.0001
+Bit2atomNoise	http://lymanZHANG.com	2	0.0001
+Camera3D	NULL	2	0.0001
+mri3ds	NULL	2	0.0001
+tramontanaCV	NULL	2	0.0001
+guava	NULL	2	0.0001
+lunar	NULL	2	0.0001
+supercollider	NULL	2	0.0001
+Usb	https://github.com/inventit/processing-android-serial	2	0.0001
+fisica	NULL	2	0.0001
+ScreenCapturer	http://www.onformative.com/lab/screencapturer/	2	0.0001
+Picking	NULL	2	0.0001
+rita	NULL	2	0.0001
+poiOoxml	NULL	2	0.0001
+baPhysics	NULL	2	0.0001
+hsqldb	NULL	2	0.0001
+IO Library for Processing	http://yourlibraryname.com	2	0.0001
+weka	NULL	2	0.0001
+traer	NULL	2	0.0001
+SQLibrary	NULL	2	0.0001
+Mouse2DTransformations	NULL	2	0.0001
+AR	http://android.processing.org	2	0.0001
+mpe	NULL	2	0.0001
+GaussSense	NULL	2	0.0001
+kramann0020_text	NULL	2	0.0001
+Piccolo P5	http://piccolo.cc	2	0.0001
+UDP	NULL	2	0.0001
+kramann0110_mathematik	NULL	2	0.0001
+muUsbSerialb96f9	https://github.com/inventit/processing-android-serial	2	0.0001
+commons_math	NULL	2	0.0001
+gcodeGenerativeForProcessing	https://github.com/o0morgan0o/gcode-generative-for-processing	2	0.0001
+javascript	NULL	2	0.0001
+Stereo	https://github.com/CreativeCodingLab/stereo	2	0.0001
+extruder	NULL	2	0.0001
+httprequests_processing	NULL	2	0.0001
+objimport	NULL	2	0.0001
+Christina	NULL	2	0.0001
+commonsnet	NULL	2	0.0001
+Quick Draw for Processing	http://codybenlewis.com/Quick-Draw-for-Processing	2	0.0001
+sms	NULL	2	0.0001
+ProTablet	NULL	2	0.0001
+BRigid	http://www.lab-eds.org/brigid	2	0.0001
+libcv	NULL	2	0.0001
+kramann0120_musik	NULL	2	0.0001
+kramann0010_system	NULL	2	0.0001
+Agna	NULL	2	0.0001
+img2opc	NULL	2	0.0001
+xmpcore	NULL	2	0.0001
+edtftpj	NULL	2	0.0001
+WindowCapture	NULL	2	0.0001
+hemesh	NULL	2	0.0001
+SQLiteLibraryForCirkitForAndroid	NULL	2	0.0001
+klangstrom	NULL	2	0.0001
+commonsNet	NULL	2	0.0001
+PureData for Processing	https://github.com/libpd/puredatap5	2	0.0001
+EasyMouse	NULL	2	0.0001
+kxxxkirnbergerxxx	NULL	2	0.0001
+nn	NULL	2	0.0001
+ComposingForEveryone	NULL	2	0.0001
+jama	NULL	2	0.0001
+kramann0180_installation	NULL	2	0.0001
+processingTUIO	NULL	2	0.0001
+AndroidSerial	https://github.com/inventit/processing-android-serial	2	0.0001
+Nest	http://transmote.com/nest/	2	0.0001
+okhttp	NULL	2	0.0001
+commons_lang	NULL	2	0.0001
+interpolation	NULL	2	0.0001
+kinect	NULL	2	0.0001
+kramann	http://www.kramann.info/	2	0.0001
+jmcvideo	NULL	2	0.0001
+Serial	NULL	2	0.0001
+simpleML	NULL	2	0.0001
+jackson_core	NULL	2	0.0001
+algorithmic cliches	https://github.com/dennisppaul/algorithmic-cliches	2	0.0001
+Trigger	NULL	2	0.0001
+AI_for_2D_Games	NULL	2	0.0001
+fog	NULL	2	0.0001
+audiorecognizer	NULL	2	0.0001
+xbee	NULL	2	0.0001
+webSockets	NULL	2	0.0001
+Andrew's Utilities	http://imaginary-institute.com/resources/AULibrary/AULibrary.php	2	0.0001
+nyar4psg	http://yourlibraryname.com	2	0.0001
+Loom	http://chrisjr.github.io/loom	2	0.0001
+ceramicsplotter	NULL	2	0.0001
+ucanaccess	NULL	2	0.0001
+SoundCipher	NULL	2	0.0001
+xxxguixxx	NULL	2	0.0001
+shapes3d	NULL	2	0.0001
+DbObjectClasses	NULL	2	0.0001
+blobDetection	NULL	2	0.0001
+boofcv_processing	NULL	2	0.0001
+kramann0160_simulation	NULL	2	0.0001
+openkinect_processing	NULL	2	0.0001
+lwjgl	NULL	2	0.0001
+patchy	NULL	2	0.0001
+VSync	NULL	2	0.0001
+Channels	NULL	2	0.0001
+log4j	NULL	2	0.0001
+Cirkit Welcome Screen Messages	https://www.theprogrammersworld.net	2	0.0001
+kramann3	NULL	2	0.0001
+vecmath	NULL	2	0.0001
+kramann0040_neuron	NULL	2	0.0001
+libtensorflow	NULL	2	0.0001
+correlations	NULL	2	0.0001
+artnet4j	NULL	2	0.0001
+commons_math3_3_6_1	NULL	2	0.0001
+colorLib	NULL	2	0.0001
+Panel4P	NULL	2	0.0001
+Sprites	NULL	2	0.0001
+Tactu5	NULL	2	0.0001
+kcdc	NULL	2	0.0001
+guava_mini	NULL	2	0.0001
+JWinPointer	NULL	2	0.0001
+ttslib	NULL	2	0.0001
+voce	NULL	2	0.0001
+culebra	NULL	2	0.0001
+Ariel	https://ariel65536.ddns.net	2	0.0001
+HelloLibrary	NULL	2	0.0001
+lineFollowerSim	http://github.com/ron-grant/LFS	2	0.0001
+pbox2d	NULL	2	0.0001
+glvideo	NULL	2	0.0001
+AndroidSerial	NULL	2	0.0001
+kramann0140_evoopt	NULL	2	0.0001
+commonsmath3361	NULL	2	0.0001
+orgelsensoren	NULL	2	0.0001
+ocd	NULL	2	0.0001
+gewebe	https://github.com/dennisppaul/gewebe	2	0.0001
+testJarHelloWorld	NULL	2	0.0001
+kramann0130_divers	NULL	2	0.0001
+VR1	http://android.processing.org	2	0.0001
+kramann0030_midi	NULL	2	0.0001
+bcel680	NULL	2	0.0001
+commonslogging	NULL	2	0.0001
+STT	NULL	2	0.0001
+devolay	NULL	2	0.0001
+twitter4j407	NULL	2	0.0001
+ShortMessage	http://hamzeen.github.io/smsP5	2	0.0001
+xxxsimulatorxxx	NULL	2	0.0001
+word_wrap	NULL	2	0.0001
+flob	NULL	2	0.0001
+UsbAndroid	https://github.com/inventit/processing-android-serial	2	0.0001
+kxxxsprechenxxx	NULL	2	0.0001
+kramann0145_evooptteilung	NULL	2	0.0001
+bRigid	NULL	2	0.0001
+ezgestures	NULL	2	0.0001
+slf4j	NULL	2	0.0001
+netzwerk	NULL	2	0.0001
+SoundCloud	https://github.com/voidplus/soundcloud-java-library	2	0.0001
+PSound	NULL	2	0.0001
+Video Export	http://funprogramming.org/VideoExport-for-Processing	2	0.0001
+telegram	NULL	2	0.0001
+wusch012	http://www.kramann.info	2	0.0001
+EmeenLib	NULL	2	0.0001
+discordrpc	NULL	2	0.0001
+SimpleARToolKit	NULL	2	0.0001
+handy	NULL	2	0.0001
+aimllib	NULL	2	0.0001
+OpenDMX for Windows	https://github.com/orcaomar/processing-opendmx	2	0.0001
+futureCodersLib	NULL	2	0.0001
+Wrj4P5	NULL	2	0.0001
+PixelFlow	NULL	2	0.0001
+kramann0170_digital	NULL	2	0.0001
+LibsForProcessing	https://github.com/KelvinSpatola/LibsForProcessing	2	0.0001
+Fitting Curves	http://yourlibraryname.com	1	0.0001
+some	NULL	1	0.0001
+atlassian	NULL	1	0.0001
+j2mod	NULL	1	0.0001
+ExampleLibrary	https://processing.org/	1	0.0001
+PureData	NULL	1	0.0001
+Library OpenURL for PCB solutionFBL	http://yourlibraryname.com	1	0.0001
+finch	NULL	1	0.0001
+Apache_Http	NULL	1	0.0001
+Msafluid	NULL	1	0.0001
+oshi	https://github.com/oshi/oshi	1	0.0001
+jaxbapi	NULL	1	0.0001
+pLaunchController	NULL	1	0.0001
+io	NULL	1	0.0001
+LaCosaP5	NULL	1	0.0001
+apfloat111	NULL	1	0.0001
+openCsv	NULL	1	0.0001
+jnatpmp	NULL	1	0.0001
+Weka4P	NULL	1	0.0001
+Plethora	NULL	1	0.0001
+jinput	NULL	1	0.0001
+jna_platform	NULL	1	0.0001
+SVG Export	NULL	1	0.0001
+haxademic	NULL	1	0.0001
+reflections	NULL	1	0.0001
+jSerialComm	http://www.sojamo.de/libraries/controlp5	1	0.0001
+PortaMod	NULL	1	0.0001
+prodmx	NULL	1	0.0001
+imageio	NULL	1	0.0001
+utils	NULL	1	0.0001
+ode	NULL	1	0.0001
+CommonsMath4	NULL	1	0.0001
+jhznet	NULL	1	0.0001
+spacebrew	NULL	1	0.0001
+ExampleLib	https://github.com/Lord-of-the-Galaxy/Timing-Utilities	1	0.0001
+p5sunflow	NULL	1	0.0001
+CommonsImaging	NULL	1	0.0001
+FingerTracker	http://makematics.com/code/FingerTracker	1	0.0001
+httpclientGoogle	NULL	1	0.0001
+ca_mera	NULL	1	0.0001
+google_oauth_client	NULL	1	0.0001
+javax_media	NULL	1	0.0001
+simpleMath	NULL	1	0.0001
+Firebase2	NULL	1	0.0001
+testlibx	NULL	1	0.0001
+TriGrid	NULL	1	0.0001
+JKalman	https://github.com/kasparsj/jkalman	1	0.0001
+Google GSON	http://none/	1	0.0001
+excel	NULL	1	0.0001
+myJavaPanel_rev2	NULL	1	0.0001
+Growing Line With Text	http://yourlibraryname.com	1	0.0001
+SketchMapper	NULL	1	0.0001
+simpleTween	NULL	1	0.0001
+APBasics	https://github.com/nitsuj11595/	1	0.0001
+jcsg	NULL	1	0.0001
+jafama2	NULL	1	0.0001
+pengrad	NULL	1	0.0001
+PFaceDetect	NULL	1	0.0001
+lwjgl_openal	NULL	1	0.0001
+HttpCore	NULL	1	0.0001
+snmpsdk	NULL	1	0.0001
+Android Remote	http://cagewebdev.com/android-remote-processing-library/	1	0.0001
+TestLibrary 04.04 for Processing	http://sazakim.com	1	0.0001
+cellnoise	NULL	1	0.0001
+hpglgraphics	NULL	1	0.0001
+Best Ever Library	https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO	1	0.0001
+SelectFile	NULL	1	0.0001
+dxf	NULL	1	0.0001
+google_http_client_gson	NULL	1	0.0001
+SpaceCat	http://yourlibraryname.com	1	0.0001
+myJavaPanel_rev16	NULL	1	0.0001
+puredatap5	NULL	1	0.0001
+Isolines	http://makematics.com/code/Isolines	1	0.0001
+AnuLibrary	http://yourlibraryname.com	1	0.0001
+Kujira Library	http://yourlibraryname.com	1	0.0001
+Simple Touch	http://processing.org/	1	0.0001
+jSerial	NULL	1	0.0001
+Arcball	NULL	1	0.0001
+myJavaPanel_rev15	NULL	1	0.0001
+ehcval	NULL	1	0.0001
+artnetP5	NULL	1	0.0001
+AdVoxspac	NULL	1	0.0001
+shaderlib	NULL	1	0.0001
+urish_OpenAL	NULL	1	0.0001
+T4UI	NULL	1	0.0001
+TextField for processing	http://www.movilcenter-lab.com	1	0.0001
+algs4	NULL	1	0.0001
+EmeenTetrisLib	NULL	1	0.0001
+OpenEcho	NULL	1	0.0001
+planetarium	NULL	1	0.0001
+WS2815 Led Library for Processing for Pi4	NULL	1	0.0001
+RNA	http://yourlibraryname.com	1	0.0001
+Oogway	https://github.com/mrhujun/nl.tue.id	1	0.0001
+temboo	NULL	1	0.0001
+GSON	NULL	1	0.0001
+commonsio	NULL	1	0.0001
+usbserial	NULL	1	0.0001
+funnel	NULL	1	0.0001
+Andrew's Utilities	http://imaginary-institute.com/resources/AULibrary/AULib.php	1	0.0001
+My library - String to Parrafo	http://yourlibraryname.com	1	0.0001
+Aspose	NULL	1	0.0001
+eDMX	https://github.com/jwarwick/processing-edmx	1	0.0001
+new2	NULL	1	0.0001
+jmusic165	NULL	1	0.0001
+JOAL_toxi	NULL	1	0.0001
+jython	NULL	1	0.0001
+MapThing	NULL	1	0.0001
+treemappa	NULL	1	0.0001
+jai_imageio	NULL	1	0.0001
+exiftool_lib	NULL	1	0.0001
+Interpolation Fun	http://yourlibraryname.com	1	0.0001
+OBJ file loader	http://yourlibraryname.com	1	0.0001
+MavLink	NULL	1	0.0001
+Test Library	http://yourlibraryname.com	1	0.0001
+dna	http://s373.net/code/dna	1	0.0001
+radar ICD	http://yourlibraryname.com	1	0.0001
+Basic Processing Utility	https://github.com/NumericPrime/Processing Utils	1	0.0001
+libusbjava	NULL	1	0.0001
+PDFBox	https://github.com/ricaun/Processing-PDFBox	1	0.0001
+Libreria para lenguaje PCB solution FBL	http://yourlibraryname.com	1	0.0001
+unirest_java	NULL	1	0.0001
+Complex	NULL	1	0.0001
+PKinect	http://code.google.com/p/simple-openni/	1	0.0001
+GSVideo	https://gsvideo.sourceforge.net	1	0.0001
+motion	NULL	1	0.0001
+Menu Assets	http://lorearchives.com	1	0.0001
+qrcodeprocessing	NULL	1	0.0001
+raysha	NULL	1	0.0001
+jtsio114	NULL	1	0.0001
+google_api_client_java6	NULL	1	0.0001
+jnaplatform	NULL	1	0.0001
+ImportStaticRange	NULL	1	0.0001
+jettyall	NULL	1	0.0001
+roombacomm	NULL	1	0.0001
+guava_jre	NULL	1	0.0001
+emoji	NULL	1	0.0001
+FreeTransform	NULL	1	0.0001
+commons_imaging_1_0_alpha3	NULL	1	0.0001
+ProcessingAssignmentLib	NULL	1	0.0001
+powriter	http://java.net/projects/povwriter/downloads/	1	0.0001
+Serial Matrix Library	http://yourlibraryname.com	1	0.0001
+Qatja	https://github.com/Qatja/processing	1	0.0001
+pi4j	NULL	1	0.0001
+launchpad	NULL	1	0.0001
+accelerometer	NULL	1	0.0001
+slf4japi	NULL	1	0.0001
+steamworks	NULL	1	0.0001
+Video Export Kotlin	https://github.com/hamoid/video_export_processing	1	0.0001
+tramontana_processing	NULL	1	0.0001
+Panel de Osciloscopio	http://yourlibraryname.com	1	0.0001
+Rope	not available	1	0.0001
+javacvPro	NULL	1	0.0001
+artnet4jelios	NULL	1	0.0001
+SFJL	http://doekewartena.nl/sfjl	1	0.0001
+tuio	NULL	1	0.0001
+kaitai	NULL	1	0.0001
+Kinect v2 Library	http://codigogenerativo.com/kinectpv2/	1	0.0001
+javacan	NULL	1	0.0001
+google_oauth_client_java6	NULL	1	0.0001
+LaTeX for Processing	https://github.com/nickmcintyre/processing-latex	1	0.0001
+ZoomP3	http://jrst.dev/zoomp3	1	0.0001
+parser	NULL	1	0.0001
+pbirdv1	NULL	1	0.0001
+Jamepad	NULL	1	0.0001
+MoveLib	https://github.com/SableRaf/movelib	1	0.0001
+nytimes	NULL	1	0.0001
+mathematik	NULL	1	0.0001
+myJavaPanel_rev8	NULL	1	0.0001
+jmdns	NULL	1	0.0001
+pdfbox	NULL	1	0.0001
+FireBaseKlient	NULL	1	0.0001
+Tensorflow	https://processing.org/reference/libraries/sound/index.html	1	0.0001
+Inputs	http://www.andrewerrity.com	1	0.0001
+metadata_extractor_2_18_0	NULL	1	0.0001
+PapARt	NULL	1	0.0001
+gwoptics	NULL	1	0.0001
+anar	NULL	1	0.0001
+libfrtkGUI	NULL	1	0.0001
+UsbSerial	NULL	1	0.0001
+EasyModbusJava	NULL	1	0.0001
+jlfOscSpat	NULL	1	0.0001
+myPushbuttons_rev2	NULL	1	0.0001
+steamkit	NULL	1	0.0001
+googleTrans	NULL	1	0.0001
+$1 Unistroke Recognizer	https://github.com/voidplus/onedollar-unistroke-recognizer	1	0.0001
+my class Cruz nuevo componente	http://yourlibraryname.com	1	0.0001
+PKinect	NULL	1	0.0001
+P5ColorThief	http://fabianmoronzirfas.me/P5ColorThief	1	0.0001
+Poly2Tri	NULL	1	0.0001
+tactu5	http://www.abstract-codex.net/tactu5	1	0.0001
+prosvg	NULL	1	0.0001
+commons_math3361	NULL	1	0.0001
+Efecto Cursor Anime	http://yourlibraryname.com	1	0.0001
+sgp4	NULL	1	0.0001
+USBSerial	NULL	1	0.0001
+##ApparentRidges##	##https://github.com/CreativeInquiry/ApparentRidges##	1	0.0001
+msafluid	NULL	1	0.0001
+XYscope	NULL	1	0.0001
+FXTaskbarProgressBar	NULL	1	0.0001
+rekognition_processing	NULL	1	0.0001
+PBasic	NULL	1	0.0001
+HogeLibrary	NULL	1	0.0001
+Lumarca for Processing	http://lumarca.info	1	0.0001
+nclSyphonClientForArtnet	NULL	1	0.0001
+ai_ga	NULL	1	0.0001
+javaxmail	NULL	1	0.0001
+commonMath	NULL	1	0.0001
+PointSection	NULL	1	0.0001
+objloader	NULL	1	0.0001
+OpenSimpleNoise for Processing	http://www.movilcenter-lab.com	1	0.0001
+NOSLib	NULL	1	0.0001
+qrcode	NULL	1	0.0001
+oscP5	https://trackmeifyoucan.com	1	0.0001
+jackson_jr_all	NULL	1	0.0001
+Turtle	http://leahbuechley.com	1	0.0001
+Hue	stuff.com	1	0.0001
+Ketai	http://ketaiLibrary.com/	1	0.0001
+LittleHelpers	https://github.com/bckmnn/littlehelpers	1	0.0001
+fontbox_3_0_0_beta1	NULL	1	0.0001
+WhiteMatrixPanel	NULL	1	0.0001
+guava_31_1_jre	NULL	1	0.0001
+SLF4J	NULL	1	0.0001
+Frame Tabla View	http://yourlibraryname.com	1	0.0001
+jupiter	NULL	1	0.0001
+SimpleSecurity	NULL	1	0.0001
+Library ConfigPrograma PCBsolutionFBL	http://yourlibraryname.com	1	0.0001
+httpclient	NULL	1	0.0001
+Jsoup	NULL	1	0.0001
+Firebase3	NULL	1	0.0001
+My libreria boton	http://yourlibraryname.com	1	0.0001
+gainer	NULL	1	0.0001
+scala_library3320	NULL	1	0.0001
+CreativeMachine	https://github.com/jjeongin/creative-machine	1	0.0001
+oscillator	NULL	1	0.0001
+Gestalt	http://www.the-product.org/gestalt	1	0.0001
+GUI	NULL	1	0.0001
+newhull	NULL	1	0.0001
+commonsmath3	NULL	1	0.0001
+delaunay_triangulation	NULL	1	0.0001
+Apache	NULL	1	0.0001
+jna_platform452	NULL	1	0.0001
+Flip Dots	https://bitbucket.org/hirschandmann/flipdotmatrix	1	0.0001
+JDA	NULL	1	0.0001
+proscene	NULL	1	0.0001
+java3d_core1601	NULL	1	0.0001
+RN4020	http://daig.co.uk	1	0.0001
+peasyGradients	https://github.com/micycle1/PeasyGradients	1	0.0001
+Plantilla PDF 01 - PCB Solution FBL	http://yourlibraryname.com	1	0.0001
+TestLibrary for Processing	http://sazakim.com	1	0.0001
+oauthP5	http://www.nytlabs.com/oauthp5	1	0.0001
+diewald_fluid	NULL	1	0.0001
+Foetus	NULL	1	0.0001
+WIPGameLibrary	http://yourlibraryname.com	1	0.0001
+PtPlotII	NULL	1	0.0001
+HYPE	NULL	1	0.0001
+OpenSimplexNoise for Processing	http://thecodingtrain.com	1	0.0001
+my class Crear Origen	http://yourlibraryname.com	1	0.0001
+t9	NULL	1	0.0001
+commons_lang338	NULL	1	0.0001
+gdata	NULL	1	0.0001
+chariot	https://github.com/tors42/chariot	1	0.0001
+JBox2D	NULL	1	0.0001
+telegramBots	NULL	1	0.0001
+swt	NULL	1	0.0001
+my Class Lupa Fluida	http://yourlibraryname.com	1	0.0001
+GRInfinidecimalCanvas	NULL	1	0.0001
+Library login for PcbSolutionFBL	http://yourlibraryname.com	1	0.0001
+junit_jupiter_api532	NULL	1	0.0001
+nv_websocket_client	NULL	1	0.0001
+dmxP512	NULL	1	0.0001
+Terrapin	NULL	1	0.0001
+FreeTransform Ex	http://yourlibraryname.com	1	0.0001
+shapeData	NULL	1	0.0001
+F9Mutes First Lib for Processing	http://yourlibraryname.com	1	0.0001
+SSGUI	NULL	1	0.0001
+Tensorflow	NULL	1	0.0001
+AmbientLightSensor	NULL	1	0.0001
+Quva for Processing	https://github.com/NumericPrime/SwingHelperProcessing	1	0.0001
+Firebase4	NULL	1	0.0001
+google_http_client_jackson2	NULL	1	0.0001
+jexcelapi	NULL	1	0.0001
+nub	NULL	1	0.0001
+MathFunc	NULL	1	0.0001
+MyGUI	NULL	1	0.0001
+apache_sanselan	NULL	1	0.0001
+My library Bar Vertical Processing	http://yourlibraryname.com	1	0.0001
+glitchP5	NULL	1	0.0001
+MyLibrary	NULL	1	0.0001
+Path_Finder	NULL	1	0.0001
+EJML	NULL	1	0.0001
+jnaplatform	https://github.com/java-native-access/jna	1	0.0001
+aip_java_sdk	NULL	1	0.0001
+newHull	NULL	1	0.0001
+CLEyeMulticam	NULL	1	0.0001
+awsSdk	NULL	1	0.0001
+blepdroid	NULL	1	0.0001
+JFrame For config Hardware	http://yourlibraryname.com	1	0.0001
+minimal gui	http://yourlibraryname.com	1	0.0001
+Javassist	NULL	1	0.0001
+openrgb_client	https://gitlab.com/mguimard/openrgb-client/	1	0.0001
+OjAlgo48	NULL	1	0.0001
+native_j_file_chooser	NULL	1	0.0001
+Open Kinect for Processing	http://www.shiffman.net/p5/kinect/	1	0.0001
+GenerateNet PcbSolutionFBL	http://yourlibraryname.com	1	0.0001
+artnet4j2	NULL	1	0.0001
+OOCSI for Processing	http://iddi.github.io/oocsi	1	0.0001
+NeurophFrameworkForProcessing	NULL	1	0.0001
+GazeTrack	NULL	1	0.0001
+JCUDA	NULL	1	0.0001
+javaee	NULL	1	0.0001
+JFrame userData PcbSolution	http://yourlibraryname.com	1	0.0001
+pdfbox_app_3_0_0_beta1	NULL	1	0.0001
+Frame Recorder	https://github.com/DBC-Works/FrameRecorder	1	0.0001
+classes12	NULL	1	0.0001
+matrix	NULL	1	0.0001
+google_api_client_jackson2	NULL	1	0.0001
+Detect Text Senalado	http://yourlibraryname.com	1	0.0001
+CMYKDemo	NULL	1	0.0001
+javaHDR	NULL	1	0.0001
+joml	NULL	1	0.0001
+VisualP3	https://jrst.dev/visualp3	1	0.0001
+toolsProcessing	NULL	1	0.0001
+jcomplex10	NULL	1	0.0001
+HttpClient	NULL	1	0.0001
+reflections	https://github.com/ronmamo/reflections	1	0.0001
+usb4java	NULL	1	0.0001
+NewApache	NULL	1	0.0001
+Frederickk	NULL	1	0.0001
+Mesh	http://leebyron.com/mesh/	1	0.0001
+zxing_bitmatrix	NULL	1	0.0001
+Resistor Plugin	http://yourlibraryname.com	1	0.0001
+Packet Networking	http://yourlibraryname.com	1	0.0001
+Ketai	http://ketaiLibrary.org/	1	0.0001
+org_processing_opencv	NULL	1	0.0001
+GUI Library	http://yourlibraryname.com	1	0.0001
+LuaJ	NULL	1	0.0001
+procmod	NULL	1	0.0001
+stackcore	NULL	1	0.0001
+jgltf	NULL	1	0.0001
+firebase	NULL	1	0.0001
+dom4j	NULL	1	0.0001
+myJavaPanel_rev6	NULL	1	0.0001
+Log4J	http://???	1	0.0001
+Webcam Capture Processing	https://github.com/cansik/webcam-capture-processing	1	0.0001
+mp3agic	NULL	1	0.0001
+GameControlPlus	NULL	1	0.0001
+unirest	NULL	1	0.0001
+myJavaPanel_rev17	NULL	1	0.0001
+pdf	NULL	1	0.0001
+google_api_services_youtube_v3	NULL	1	0.0001
+HTTP Requests for Processing (Edit to throw Exceptions and get HttpResponse object.)	https://github.com/runemadsen/HTTP-Requests-for-Processing	1	0.0001
+jsr305	NULL	1	0.0001
+testt	NULL	1	0.0001
+UiBooster	NULL	1	0.0001
+JScience	http://unknown	1	0.0001
+slf4j	https://www.slf4j.org/	1	0.0001
+SerialUntref	NULL	1	0.0001
+guicomponents	http://www.lagers.org.uk/g4p	1	0.0001
+vecmath152	NULL	1	0.0001
+GameServer	https://github.com/jediahkatz/Processing_Game_Server	1	0.0001
+JCuda	NULL	1	0.0001
+javasteam	NULL	1	0.0001
+Opciones Keypressed	http://yourlibraryname.com	1	0.0001
+zxing	NULL	1	0.0001
+Ad3D	NULL	1	0.0001
+WS2801	NULL	1	0.0001
+krytickConsole	https://github.com/krytickLib	1	0.0001
+LoadImageURL	http://yourlibraryname.com	1	0.0001
+mini xuggler 4 processing	http://bioemergences.eu/thierry	1	0.0001
+Blepdroid	https://github.com/joshuajnoble/blepdroid	1	0.0001
+pbirdv0	NULL	1	0.0001
+ReactP5	NULL	1	0.0001
+MediaExport	https://github.com/LFBFerreira/MediaExport	1	0.0001
+jocl201	NULL	1	0.0001
+pgs	NULL	1	0.0001
+SpeedJG	NULL	1	0.0001
+myJavaPanel_rev3	NULL	1	0.0001
+Obj	NULL	1	0.0001
+tess4J	NULL	1	0.0001
+animation	NULL	1	0.0001
+javaMod	NULL	1	0.0001
+v3ga	NULL	1	0.0001
+Grainy for Processing	https://chengkaixu.art/Grainy	1	0.0001
+nclTimelineEditor	NULL	1	0.0001
+LibLearn	NULL	1	0.0001
+peasyCam	NULL	1	0.0001
+Camera Z up	https://github.com/behreajj/CamZup	1	0.0001
+guiModes	NULL	1	0.0001
+rita	https://rednoise.org/rita/	1	0.0001
+LibBulletJME	https://github.com/stephengold/Libbulletjme	1	0.0001
+cratedigger	NULL	1	0.0001
+InputKR for Processing	https://github.com/sazakim/InputKR	1	0.0001
+Toy Models	http://diogotudela.com/toymodels	1	0.0001
+socketio	NULL	1	0.0001
+selenium	https://www.selenium.dev/downloads/	1	0.0001
+Core	NULL	1	0.0001
+my Class Lupa Static	http://yourlibraryname.com	1	0.0001
+LSystems	http://kenai.com/projects/l-system-utilities	1	0.0001
+jackcess	NULL	1	0.0001
+apache_commons_logging	NULL	1	0.0001
+D2XX Serial Library for Processing	https://github.com/orgicus/D2XX	1	0.0001
+new4	NULL	1	0.0001
+comApache	NULL	1	0.0001
+Frame Select Signal Osciloscope	http://yourlibraryname.com	1	0.0001
+portmapper	NULL	1	0.0001
+logging	NULL	1	0.0001
+metadata_extractor	NULL	1	0.0001
+jscience431	NULL	1	0.0001
+point	NULL	1	0.0001
+JasmineX	http://www.lagers.org.uk/jasmine	1	0.0001
+kinematik	http://www.	1	0.0001
+my class Consola	http://yourlibraryname.com	1	0.0001
+scribeJava	NULL	1	0.0001
+myUsb4Java	NULL	1	0.0001
+PeasyGradients	https://github.com/micycle1/PeasyGradients	1	0.0001
+jSSC	NULL	1	0.0001
+commonsmath	NULL	1	0.0001
+neticaJ	NULL	1	0.0001
+oncrpc	NULL	1	0.0001
+shapeCamera	NULL	1	0.0001
+dropbox	NULL	1	0.0001
+Frame Tabla Mediciones	http://yourlibraryname.com	1	0.0001
+my class fondo tipo Altium	http://yourlibraryname.com	1	0.0001
+CommonsLogging	NULL	1	0.0001
+UMovieMaker	NULL	1	0.0001
+JHook	NULL	1	0.0001
+rctData	NULL	1	0.0001
+CommonsMath4Legacy	NULL	1	0.0001
+my class temporizador LED ON-OFF	http://yourlibraryname.com	1	0.0001
+video2	NULL	1	0.0001
+myJavaPanel_rev22	NULL	1	0.0001
+commonsmath22	NULL	1	0.0001
+blobscanner	NULL	1	0.0001
+jcuda090d	NULL	1	0.0001
+JNA	NULL	1	0.0001
+my class conexion SQL	http://yourlibraryname.com	1	0.0001
+ThinkGear	NULL	1	0.0001
+FireBaseSDK	NULL	1	0.0001
+lwjgl293	NULL	1	0.0001
+query	NULL	1	0.0001
+Library Properties Panel Tools	http://yourlibraryname.com	1	0.0001
+Ketai	http://ketaiProject.org/	1	0.0001
+PCapture	https://github.com/kougaku/PCapture	1	0.0001
+lucene_core721	NULL	1	0.0001
+isogrid	https://github.com/wblut/isogrid	1	0.0001
+Pd4P3	NULL	1	0.0001
+serial	NULL	1	0.0001
+nclLedEditor	NULL	1	0.0001
+JFrame prueba para processing	http://yourlibraryname.com	1	0.0001
+myJavaPanel_rev14	NULL	1	0.0001
+postToWeb	NULL	1	0.0001
+gsvideo	NULL	1	0.0001
+hsa	NULL	1	0.0001
+my class boton incremento	http://yourlibraryname.com	1	0.0001
+mcprotocollib	https://google.com	1	0.0001
+TSPS	http://tsps.cc	1	0.0001
+scala_library2127	NULL	1	0.0001
+spotifyWebApiJava	NULL	1	0.0001
+SocketByKesha	https://vk.com/keshindiy	1	0.0001
+ExpanderVerse	https://github.com/zranger1/expander-universe	1	0.0001
+JSymbolic	NULL	1	0.0001
+Basic Processing Utility	https://github.com/NumericPrime/BasicUtility	1	0.0001
+NyAR4psg	NULL	1	0.0001
+rappid	https://github.com/nitsuj11595/rappid/tree/stable	1	0.0001
+SkweezeeForProcessing	NULL	1	0.0001
+spout	NULL	1	0.0001
+JNativeHook	NULL	1	0.0001
+jsoup	https://google.com	1	0.0001
+PixelPusher	NULL	1	0.0001
+boids	http://s373.net/code/boids	1	0.0001
+cncLib	NULL	1	0.0001
+vitamin	NULL	1	0.0001
+ARDroneForP5	NULL	1	0.0001
+Chroma	http://panchal.io	1	0.0001
+JOCL	NULL	1	0.0001
+Custom Effects	http://maker.artifista.com	1	0.0001
+Drawing Line SEV	http://yourlibraryname.com	1	0.0001
+draughts	NULL	1	0.0001
+Bar Horizontal	http://yourlibraryname.com	1	0.0001
+geonames	NULL	1	0.0001
+JFrame Show TextBox Cursor	http://yourlibraryname.com	1	0.0001
+oscp5	NULL	1	0.0001
+jfreechart_1_5_0	NULL	1	0.0001
+MetadataExtractor	NULL	1	0.0001
+wellen	NULL	1	0.0001
+SuperPoint	NULL	1	0.0001
+ab	NULL	1	0.0001
+OneDollarUnistrokeRecognizer	NULL	1	0.0001
+GPUImage	http://www.bonjour-lab.com	1	0.0001
+JFrame info Pcb Solution FBL v3.0	http://yourlibraryname.com	1	0.0001
+PatchMatch	NULL	1	0.0001
+net	NULL	1	0.0001
+Squarify	NULL	1	0.0001
+librariansUtility	NULL	1	0.0001
+gestalt_p5	NULL	1	0.0001
+Edit Txt Categories	http://yourlibraryname.com	1	0.0001
+SteamAPI	http://code-disaster.github.io/steamworks4j	1	0.0001
+Combinatorics	NULL	1	0.0001
+ical4p	NULL	1	0.0001
+Snowflake for Processing	http://prh.us-east-1.snowflakecomputing.com/	1	0.0001
+uno	NULL	1	0.0001
+iirj	NULL	1	0.0001
+PointElement	NULL	1	0.0001
+gstreamer	NULL	1	0.0001
+ejml_core032	NULL	1	0.0001
+flickr4java	NULL	1	0.0001
+jackcces	NULL	1	0.0001
+json_simple	NULL	1	0.0001
+ImageProcessing	NULL	1	0.0001
+jt400	NULL	1	0.0001
+opencv	NULL	1	0.0001
+libAvatar	https://github.com/gweltou/libAvatar	1	0.0001
+AdVoxspac2	NULL	1	0.0001
+JCUBLAS	NULL	1	0.0001
+toerase	NULL	1	0.0001
+GoogleAPIClient	NULL	1	0.0001
+myJavaPanel_rev11	NULL	1	0.0001
+rx	NULL	1	0.0001
+JNativeLibrary	https://github.com/kwhat/jnativehook	1	0.0001
+my class for toolTipText	http://yourlibraryname.com	1	0.0001
+SimpleDynamixel	NULL	1	0.0001
+Network Objects	https://github.com/shua5115/NetworkObjects	1	0.0001
+vertext	NULL	1	0.0001
+Novation Launch Pad Mini client revised by Oguz	https://github.com/haschdl/pLaunchPadMini	1	0.0001
+jMusic164	NULL	1	0.0001
+Green	NULL	1	0.0001
+libpxcclr_processing	NULL	1	0.0001
+new1	NULL	1	0.0001
+ttslibP4	NULL	1	0.0001
+HID_Interface_rev1	NULL	1	0.0001
+HttpMime	NULL	1	0.0001
+hidapi	NULL	1	0.0001
+ProcessingLibraryFramework	NULL	1	0.0001
+MostPixelsEverCE	https://github.com/bmwesting/MostPixelsEverCE	1	0.0001
+gwfc	NULL	1	0.0001
+punktiert	NULL	1	0.0001
+KinematikJava50410	NULL	1	0.0001
+BezierSQLib	NULL	1	0.0001
+metadataextractor	NULL	1	0.0001
+nclShaderPlayerForArtnet	NULL	1	0.0001
+apprentice	http://yourlibraryname.com	1	0.0001
+colorharmony	NULL	1	0.0001
+RunwayML	NULL	1	0.0001
+ejmlsimple	NULL	1	0.0001
+scribe	NULL	1	0.0001
+commons_collections441	NULL	1	0.0001
+rhino	https://google.com/	1	0.0001
+sdkclient	NULL	1	0.0001
+mqtt	NULL	1	0.0001
+google_api_client	NULL	1	0.0001
+jtransforms	NULL	1	0.0001
+Library JFrame Control Hardware	http://yourlibraryname.com	1	0.0001
+CommonsMath3	NULL	1	0.0001
+QuantenAnnealingUtils	NULL	1	0.0001
+AugmentaP5	https://github.com/Theoriz/AugmentaP5	1	0.0001
+kabeja	NULL	1	0.0001
+G4P1	http://www.lagers.org.uk/g4p	1	0.0001
+pUI	http://martinleopold.com/pui	1	0.0001
+OpenNI	NULL	1	0.0001
+yorunoyoLib	NULL	1	0.0001
+surfaceLib	https://github.com/eskimoblood/surfacelib	1	0.0001
+Libreria IMG Loading	http://yourlibraryname.com	1	0.0001
+Triangulate	NULL	1	0.0001
+beatlink	NULL	1	0.0001
+Crea boton check	http://yourlibraryname.com	1	0.0001
+Mass Interaction Physics	http://mi-creative.eu	1	0.0001
+jsoup	https://jsoup.org/	1	0.0001
+pdfbox_android	NULL	1	0.0001
+lwjgl_stb_vorbis	NULL	1	0.0001
+Commons	NULL	1	0.0001
+myJavaPanel_rev5	NULL	1	0.0001
+nclOscScheduler	NULL	1	0.0001
+new3	NULL	1	0.0001
+inputs	NULL	1	0.0001
+utility library for processing	http://yourlibraryname.com	1	0.0001
+cleoARToolKit	NULL	1	0.0001
+jodatime	NULL	1	0.0001
+ddpclient	NULL	1	0.0001
+myJavaPanel_rev4	NULL	1	0.0001
+OpenSimplexNoise for Processing	http://arturotramontini.it	1	0.0001
+Encodata WSFramework	https://www.encodata.de/	1	0.0001
+discord-rps	https://google.com	1	0.0001
+google_oauth_client_jetty	NULL	1	0.0001
+Library for tool Measure A	http://yourlibraryname.com	1	0.0001
+CKEngine	http://yourlibraryname.com	1	0.0001
+vecmath_1601	NULL	1	0.0001
+Library List analisis Hardware	http://yourlibraryname.com	1	0.0001
+awsJavaSdk	NULL	1	0.0001
+TubesP5	https://github.com/nkint/tubesP5	1	0.0001
+teilchen	NULL	1	0.0001
+multiPackage	NULL	1	0.0001
+transform	NULL	1	0.0001
+ADT (KC Informatik GO Niedersachsen)	https://nibis.de	1	0.0001
+canvascam	NULL	1	0.0001
+movingletters	NULL	1	0.0001
+USB	NULL	1	0.0001
+mylib	NULL	1	0.0001
+InputText PcbSolution	http://yourlibraryname.com	1	0.0001
+visualizerLib	0.com	1	0.0001
+jai_core	NULL	1	0.0001
+dLibs_Barcode	NULL	1	0.0001
+simpleGUI	NULL	1	0.0001
+Frame edit Membrete PDF	http://yourlibraryname.com	1	0.0001
+kinematik	NULL	1	0.0001
+pyahoo	NULL	1	0.0001
+Leap Motion For Processing	NULL	1	0.0001
+OCRUtils	http://yourlibraryname.com	1	0.0001
+encog	NULL	1	0.0001
+cmx	NULL	1	0.0001
+shapeFunc	NULL	1	0.0001
+eduTools	NULL	1	0.0001
+WeatherAPI	NULL	1	0.0001
+Plugin data base of software	http://yourlibraryname.com	1	0.0001
+sim2d-lib	http://yourlibraryname.com	1	0.0001
+NULL	NULL	1	0.0001
+shapeScene	NULL	1	0.0001
+Bubbles	http://yourlibraryname.com	1	0.0001
+turbojpeg	NULL	1	0.0001
+LabStreamingLayer for Processing	https://github.com/sazakim/LabStreamingLayer	1	0.0001
+Twitter4J	http://twitter4j.org	1	0.0001
+camcam	NULL	1	0.0001
+TimedEvents	NULL	1	0.0001
+Easy Serial	http://github.com/orgicus/EasySerial	1	0.0001
+Fontastic	NULL	1	0.0001
+voltron	NULL	1	0.0001
+juniversalchardet	NULL	1	0.0001
+usbotg	NULL	1	0.0001
+Test_0	NULL	1	0.0001
+Library JFrame Config PDF	http://yourlibraryname.com	1	0.0001
+myJavaPanel_rev7	NULL	1	0.0001
+jlib	NULL	1	0.0001
+HokuyoP5	NULL	1	0.0001
+Pcb Solution Images	http://yourlibraryname.com	1	0.0001
+meyameyaLib	NULL	1	0.0001
+Brain	NULL	1	0.0001
+google_http_client	NULL	1	0.0001
+cleyemulticam	NULL	1	0.0001
+kura	NULL	1	0.0001
+okio	NULL	1	0.0001
+myJavaPanel_rev9	NULL	1	0.0001
+electro	NULL	1	0.0001
+Frame Tool Plugin	http://yourlibraryname.com	1	0.0001
+wrj4P5	NULL	1	0.0001
+SimpleHTTPServer	NULL	1	0.0001
+imageadjuster	NULL	1	0.0001
+antlr	NULL	1	0.0001
+commons_logging	NULL	1	0.0001
+nclVideoPlayerForArtnet	NULL	1	0.0001
+ketai	NULL	1	0.0001
+povmesh	NULL	1	0.0001
+CommonsIO	NULL	1	0.0001
+helloWorld	NULL	1	0.0001
+jlatexmath	NULL	1	0.0001
+fannj	NULL	1	0.0001
+jdom	NULL	1	0.0001
+nclMultimediaPlayerForArtnet	NULL	1	0.0001
+Buttplug4j	https://github.com/blackspherefollower/buttplug4j	1	0.0001
+DynamixelX	http://github.com/orgicus/DynamixelX	1	0.0001
+monomic	NULL	1	0.0001
+HPGL Plotter	http://sjunnesson.github.io/HPGL-Plotter/	1	0.0001
+colladaLoader	NULL	1	0.0001
+loom	NULL	1	0.0001
+tracer	http://www.objectstothinkwith.com/tracer	1	0.0001
+Create Lines LGN	http://yourlibraryname.com	1	0.0001
+wgui	NULL	1	0.0001
+Network	NULL	1	0.0001
+MindSet Processing	http://jorgecardoso.eu/processing/ID3/	1	0.0001
+myJavaPanel_rev12	NULL	1	0.0001
+Rope	https://knupel.github.io/Rope/	1	0.0001
+K2P3 Toolkit	http://www.genekogan.com	1	0.0001
+My class Grid processing	http://yourlibraryname.com	1	0.0001
+grafica	NULL	1	0.0001
+SimpleKDL	http://code.google.com/p/simple-kdl/	1	0.0001
+sonia	NULL	1	0.0001
+Simple	NULL	1	0.0001
+ZXing4processing	NULL	1	0.0001
+Sphinx	https://processing.org/reference/libraries/sound/index.html	1	0.0001
+logback_core130alpha0	NULL	1	0.0001
+csoundo	NULL	1	0.0001
+Scene	NULL	1	0.0001
+JOptionPane PcbSolution	http://yourlibraryname.com	1	0.0001
+commonscodec	NULL	1	0.0001
+GoogleMapper	NULL	1	0.0001
+GCode Export	http://yourlibraryname.com	1	0.0001
+KorgNano	http://danbernier.github.io/korgnano/	1	0.0001
+simplereceiptprinter	NULL	1	0.0001
+Mi clase bocadillo	http://yourlibraryname.com	1	0.0001
+javapng	NULL	1	0.0001
+Open File	http://yourlibraryname.com	1	0.0001
+ojdbc11	NULL	1	0.0001
+felUsbSerial	NULL	1	0.0001
+MindSetProcessing	NULL	1	0.0001
+Rtlspektrum	NULL	1	0.0001
+Alerts	http://cagewebdev.com/alerts-processing-library/	1	0.0001
+StlLibrary	NULL	1	0.0001
+microbit	NULL	1	0.0001
+servlet	NULL	1	0.0001
+PUtil	NULL	1	0.0001
+IOConsole	NULL	1	0.0001
+JOAL	NULL	1	0.0001
+Frame Intro PcbSolutionFbl	http://yourlibraryname.com	1	0.0001
+Statistics	NULL	1	0.0001
+javaPlex	http://code.google.com/p/javaplex	1	0.0001
+AdLin	http://www.heronaka.com/AdLib/	1	0.0001
+My clase coordenadas	http://yourlibraryname.com	1	0.0001
+Libreria Tool Jumper	http://yourlibraryname.com	1	0.0001
+SimpleGUI	http://nilsramstoeck.net/simplegui	1	0.0001
+ROSProcessing	http://nothing.for.now.com	1	0.0001
+jasypt	NULL	1	0.0001
+LazyGui	NULL	1	0.0001
+BetterGradients	https://github.com/LFBFerreira/BetterGradients	1	0.0001
+joml_198	NULL	1	0.0001
+tracer	NULL	1	0.0001
+src	NULL	1	0.0001
+MlkitFaceDetection	NULL	1	0.0001
+s3	NULL	1	0.0001
+JyNI	NULL	1	0.0001
+Blobscanner	NULL	1	0.0001
+surfaceLib	NULL	1	0.0001
+Your library help label comment	http://yourlibraryname.com	1	0.0001
+Ani	NULL	1	0.0001
+json4processing	NULL	1	0.0001
+commons_lang3	NULL	1	0.0001
+ejml	NULL	1	0.0001
+apache	NULL	1	0.0001
+PSmile	NULL	1	0.0001
+nclLibraryForP5	NULL	1	0.0001
+btserial	NULL	1	0.0001
+AnimatedGif Processing 4	https://about	1	0.0001
+geotools	NULL	1	0.0001
+xuggle	NULL	1	0.0001
+jasiohost	NULL	1	0.0001
+googlemapper	NULL	1	0.0001
+test	http://www.gicentre.org/utils/	1	0.0001
+javacl_100RC4	NULL	1	0.0001
+peigenface	NULL	1	0.0001
+NyARToolkit	NULL	1	0.0001
+Libreria TextArea input	http://yourlibraryname.com	1	0.0001

@@ -1,0 +1,100 @@
+Minim	4962	http://code.compartmental.net/minim/
+ControlP5	4834	http://www.sojamo.de/libraries/controlp5
+Arduino (Firmata)	2830	http://arduino.cc/playground/Interfacing/Processing
+OpenCV for Processing	2751	https://github.com/atduskgreg/opencv-processing
+PeasyCam	2724	http://mrfeinberg.com/peasycam/
+G4P	2660	http://www.lagers.org.uk/g4p
+oscP5	2568	http://www.sojamo.de/libraries/oscp5
+Ketai	2515	http://ketai.org/
+Box2D for Processing	1767	https://github.com/shiffman/Box2D-for-Processing
+AI for 2D Games	1572	http://www.lagers.org.uk/ai4g/index.html
+Geomerative	1491	http://www.ricardmarxer.com/geomerative
+Beads	1489	http://www.beadsproject.net/
+Shapes 3D	1480	http://www.lagers.org.uk/s3d4p/index.html
+AndroidCapture for Processing	1315	https://github.com/onlylemi/processing-android-capture
+PixelFlow	1313	https://github.com/diwi/PixelFlow
+The MidiBus	1304	http://www.smallbutdigital.com/themidibus.php
+BlobDetection	1297	http://www.v3ga.net/processing/BlobDetection/
+Ani	1286	http://benedikt-gross.de/libraries/Ani/
+ToxicLibs	1220	http://toxiclibs.org/
+Open Kinect for Processing	1189	http://shiffman.net/p5/kinect/
+GenerativeDesign	1184	http://www.generative-gestaltung.de/
+Interfascia	1137	http://github.com/brendanberg/interfascia
+Websockets	1105	https://github.com/alexandrainst/processing_websockets
+UDP	1088	http://ubaa.net/shared/processing/udp/
+Game Control Plus	1073	http://lagers.org.uk/gamecontrol
+Sprites	1046	http://www.lagers.org.uk/s4p
+HTTP Requests for Processing	1029	https://github.com/runemadsen/HTTP-Requests-for-Processing
+Computational Geometry	1024	http://thecloudlab.org/processing/library.html
+Cassette	994	https://github.com/shlomihod/cassette
+Andrew's Utilities (AULib)	987	http://imaginary-institute.com/resources/AULibrary/AULib.php
+Video Export	977	https://funprogramming.org/VideoExport-for-Processing
+Kinect v2 for Processing	973	http://codigogenerativo.com/kinectpv2/
+grafica	972	http://jagracar.com/grafica.php
+VSync for Processing	944	http://erniejunior.github.io/VSync-for-Processing/
+IPCapture	944	http://www.stefanobaldan.com/projects/ipcapture
+Fisica	936	http://www.ricardmarxer.com/fisica
+Guido	936	https://github.com/fjenett/Guido
+Leap Motion for Processing	927	https://github.com/nok/leap-motion-processing
+Drop	911	http://transfluxus.github.io/drop/
+Syphon	894	https://github.com/Syphon/Processing
+Image processing algorithms	893	http://github.com/milchreis/processing-imageprocessing
+proscene	881	http://otrolado.info
+AP-Sync	880	http://ap-sync.github.io
+meter	873	https://github.com/BillKujawa/meter.git
+GL Video	849	https://github.com/gohai/processing-glvideo
+XYscope	845	http://teddavis.org/xyscope
+Console	845	https://github.com/keshrath/Console
+Kinect4WinSDK	800	http://www.magicandlove.com/blog/research/kinect-for-processing-library/
+gicentreUtils	795	http://www.gicentre.org/utils/
+BezierSQLib	791	https://github.com/fjenett/sql-library-processing
+QueasyCam	779	https://github.com/jrc03c/queasycam
+BoofCV for Processing	752	http://boofcv.org/index.php?title=Tutorial_Processing
+Loom	746	http://corajr.github.io/loom
+CountdownTimer	745	https://github.com/dhchoi/processing-countdowntimer
+Keystone	743	https://github.com/davidbouchard/keystone
+ImageLoader	738	https://github.com/keshrath/ImageLoader
+RiTa	738	http://rednoise.org/rita/
+Carnivore	730	http://r-s-g.org/carnivore
+Combinatorics	726	https://github.com/fjenett/combinatorics
+Spout for Processing	701	https://github.com/leadedge/SpoutProcessing/wiki
+LiquidFunProcessing	694	https://github.com/diwi/LiquidFunProcessing
+OCD: Obsessive Camera Direction	694	http://www.gdsstudios.com/processing/libraries/ocd/
+HE_Mesh	693	http://www.wblut.com/he_mesh/
+QRCode	690	http://shiffman.net/p5/qrcode-processing/
+SketchMapper	681	http://josephtaylor.github.io/sketch-mapper
+Collada Loader for SketchUp and Blender	673	http://www.die-seite.ch/
+SuperCollider client for Processing	666	http://www.erase.net/projects/processing-sc/
+Path Finder	663	http://www.lagers.org.uk/pfind/index.html
+Camera 3D	651	http://ixora.io/projects/camera-3D/
+ColorScheme	651	http://josephtaylor.github.io/ColorScheme
+ColorHarmony	649	http://cagewebdev.com/colorharmony-processing-library//
+Dawesome Toolkit	642	http://cloud.brendandawes.com/dawesometoolkit/
+Temboo	639	http://www.temboo.com/processing
+Culebra Behavior Library for Processing	626	http://www.complicitmatter.com/culebra-java/
+OBJExport	622	http://n-e-r-v-o-u-s.com/tools/obj
+Jasmine	621	http://www.lagers.org.uk/jasmine
+Signal Filter	621	https://github.com/SableRaf/signalfilter
+extruder	620	http://maxlfarrell.gitlab.io/extruder
+$1 Unistroke Recognizer	618	https://github.com/nok/onedollar-unistroke-recognizer
+MapThing	613	http://www.reades.com/MapThing
+Fontastic	613	http://code.andreaskoller.com/libraries/fontastic
+Picking	609	http://n.clavaud.free.fr/processing/library/picking/
+Free Transform	608	https://github.com/barelief/freeTransform-processing
+Camera 3D	601	https://ixora.io/projects/camera-3D/
+MQTT	599	https://github.com/256dpi/processing-mqtt
+HiVis	593	https://github.com/OliverColeman/hivis
+tactu5	584	NULL
+nyar4psg	582	https://github.com/nyatla/NyARToolkit-for-Processing/
+Eliza	576	http://interfaze.info/libraries/eliza/
+Dashed Lines	573	https://github.com/garciadelcastillo/-dashed-lines-for-processing-
+PostFX for Processing	569	https://github.com/cansik/processing-postfx
+BlinkStick	566	http://arvydas.github.io/blinkstick-processing/
+ArtNet for Java and Processing	566	https://github.com/cansik/artnet4j
+Timing Utilities	564	https://github.com/Lord-of-the-Galaxy/Timing-Utilities
+PixelPusher	563	http://www.heroicrobotics.com/
+spacebrewP5	556	http://spacebrew.cc
+ShortMessage	554	http://hamzeen.github.io/ShortMessage
+Mouse 2D Transformations	552	https://github.com/AlexPoupakis/mouse2DTransformations
+ttslib	538	http://www.local-guru.net/blog/pages/ttslib
+TimedEvents	538	http://multiply.org/processing/
